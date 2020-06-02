@@ -106,16 +106,16 @@ _Discuss Hero stuff_ <raphytex@gmail.com>
 
 ## Deploy 
 
-* [] deploy server with now
-   * [] set up environment variables
-      * [] database connection
+* [x] deploy server with now
+   * [x] set up environment variables
+      * [x] database connection
          * process.env.MONGO_URI
    * show mlab
    * deploy with environment variable
      * now -e MONGO_URI=@meower-db
      * add alias
 * deploy clien folder with now
-  *[] Set API_URL based on hostname
+  *[x] Set API_URL based on hostname
 
 * link to front-end https://thwinger.now.sh 
 * link to back-end  https://thwinger-api.now.sh
