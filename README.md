@@ -117,4 +117,6 @@ _Discuss Hero stuff_ <raphytex@gmail.com>
 * deploy clien folder with now
   *[] Set API_URL based on hostname
 
+* link to front-end https://thwinger.now.sh 
+* link to back-end  https://thwinger-api.now.sh
 ## What is next
