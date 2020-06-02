@@ -1,0 +1,28 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+label,input {
+ display: block;
+ float: left;
+ margin-bottom: 10px;
+}
+
+.mew-form, .loading, .title {
+    width: 50%;
+    margin: 0 auto;
+    align-self: center;
+    padding-top: 20px;
+}
+
+.loading{
+    text-align: center;
+}
+
+.mews {
+    background-color: #f5f7f5;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+

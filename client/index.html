@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Thwinger-Super Heroes' Chat</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header">
+       <!-- <img src="superhero.png" alt="logo"> -->
+        <h1 class="title">Thwinger-For Supers</h1>
+    </header>
+</body>
+
+<main>
+    <form class="mew-form">
+        <label for="name">Name</label>
+        <input class=" u-full-width name-content" type="text" id="name" name="name" required>
+
+        <label for="content">Content</label>
+        <textarea class=" u-full-width content-content" type="text" id="content" name="content" required></textarea>
+        <button class="btn button-primary" type="submit">Post</button>
+    </form>
+
+    <div class='loading'>
+        <img src="loading.gif" alt="loading image">
+
+    </div> <br />
+
+    <hr class="liner">
+    <!-- for every iteration, add a mew to this class-->
+    <div class="mews">
+
+    </div>
+
+
+
+</main>
+<script src="client.js"></script>
+</html>
