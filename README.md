@@ -29,7 +29,7 @@ _Discuss Hero stuff_ <raphytex@gmail.com>
    * [x] Name 
    * [x] Content
    * [x] u-full-width
-* [x]Listen for form submit
+* [x] Listen for form submit
 * [x] Load a spinner
 * [x] Hide the form
 * [x] Show loading spinner
