@@ -2,7 +2,7 @@
 *Created by Raphael Sani (sanraph)*
 _Discuss Hero stuff_ <raphytex@gmail.com>
 
-![thwinger icon](images/superhero.png)
+![thwinger icon](superhero.png)
 
 **Thwinger**, the leading Chat Platform for *Super Heroes*
 
@@ -115,7 +115,7 @@ _Discuss Hero stuff_ <raphytex@gmail.com>
      * now -e MONGO_URI=@meower-db
      * add alias
 * deploy clien folder with now
-  *[x] Set API_URL based on hostname
+  * [x] Set API_URL based on hostname
 
 * link to front-end https://thwinger.now.sh 
 * link to back-end  https://thwinger-api.now.sh
