@@ -1,8 +1,8 @@
 # Setup Process for Thwinger - Chat for Super Heroes
-*Created by Raphael Sani (sanraph)*
-_Discuss Hero stuff_ <raphytex@gmail.com>
+  ## Created by Raphael Sani (sanraph) @ Semicolon
+* _Discuss Hero stuff_ <raphytex@gmail.com>
 
-![thwinger icon](superhero.png)
+![thwinger icon](images/superhero.png)
 
 **Thwinger**, the leading Chat Platform for *Super Heroes*
 
