@@ -11,8 +11,9 @@ const mewsElement = document.querySelector('.mews');
 loadingElement.style.display = '';
 
 //this url is use for POSTing and querying(GET) data from this route, with db name 'mews'
-const API_URI = window.location.host = 'localhost' ? 'http://localhost:5000/mews' : 'https://thwinger-api.now.sh/mews';
-
+const API_URI = window.location.hostname === 'localhost'
+  ? 'http://localhost:5000/mews'
+  : 'https://thwinger-api.now.sh/mews';
 //when the page loads request for mews
 listAllMews();
 
